@@ -1,4 +1,4 @@
-# Twitch Emote Experience 
+# Internet Ruining Experience Twitch Edition 
 ### By: Branden De Grasse
 
 ---
