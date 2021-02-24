@@ -1,4 +1,3 @@
-console.log("extension is running!")
  var audio = new Audio("note.mp3");
  audio.load();
 
