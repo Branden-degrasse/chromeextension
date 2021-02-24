@@ -101,7 +101,8 @@ setTimeout(function() {
   walk(document.body);
 }, 1000);
 
-$("img").attr('src', 'https://i.redd.it/rzvf88ollt961.png').load(function(){
+
+$("img").attr("src", "https://static-cdn.jtvnw.net/jtv_user_pictures/83671d65-e64a-42f5-8d44-55bfab2fab66-profile_image-300x300.png").load(function(){
     this.width;   // Note: $(this).width() will not work for in memory images
 
 });
